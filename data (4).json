@@ -227,7 +227,7 @@
    "VA":{
       "capital":"London",
       "lat":"51.509865",
-      "long":"51.509865"
+      "long":"-0.118092"
    },
    "WA":{
       "capital":"Londonderry",
@@ -258,5 +258,135 @@
       "capital":"Nottingham",
       "lat":"52.950001",
       "long":"-1.15"
+   },
+   "WO":{
+      "capital":"Oxford",
+      "lat":"51.752022",
+      "long":"-1.257677"
+   },
+   "NF":{
+      "capital":"Perth",
+      "lat":"56.396999",
+      "long":"-3.437"
+   },
+   "NI":{
+      "capital":"Peterborough",
+      "lat":"52.573921",
+      "long":"-0.25083"
+    },
+   "NK":{
+      "capital":"Plymouth",
+      "lat":"50.376289",
+      "long":"-4.143841"
+    },
+   "NL":{
+      "capital":"Portsmouth",
+      "lat":"50.805832",
+      "long":"-1.087222" },
+   "NN":{
+      "capital":"Preston",
+      "lat":"53.765762",
+      "long":"-2.692337"
+    },
+   "NO":{
+      "capital":"Ripon",
+      "lat":"54.138",
+      "long":"-1.524"
+    },
+   "NP":{
+      "capital":"Rugby",
+      "lat":"52.370876",
+      "long":"-1.265032"
+    },
+   "NQ":{
+      "capital":"Salford",
+      "lat":"53.483002",
+      "long":"-2.2931" 
+    },
+   "NR":{
+      "capital":"Salisbury",
+      "lat":"51.068787",
+      "long":"-1.794472" 
+    },
+   "NS":{
+      "capital":"Solihull",
+      "lat":"52.412811",
+      "long":"-1.778197"
+    },
+   "NT":{
+      "capital":"Southampton",
+      "lat":"50.909698",
+      "long":"-1.404351" 
+    },
+   "NU":{
+      "capital":"St. Davids",
+      "lat":"51.882",
+      "long":"-5.269" 
+    },
+   "TR":{
+      "capital":"St.Albans",
+      "lat":"51.755001",
+      "long":"-0.336"
+     },
+   "NW":{
+      "capital":"Stoke-on-Trent",
+      "lat":"53.002666",
+      "long":"-2.179404" 
+    },
+   "NX":{
+      "capital":"Sunderland",
+      "lat":"54.906101",
+      "long":"-1.38113" 
+    },
+   "NZ":{
+      "capital":"Sutton Coldfield",
+      "lat":"52.570385",
+      "long":"-1.824042" 
+    },
+   "TI":{
+      "capital":"Swansea",
+      "lat":"51.621441",
+      "long":"-3.943646" 
+    },
+   "TH":{
+      "capital":"Swindon",
+      "lat":"51.568535",
+      "long":"-1.772232" 
+    },
+   "TG":{
+      "capital":"Truro",
+      "lat":"50.259998",
+      "long":"-5.051" 
+    },
+   "TE":{
+      "capital":"Wakefield",
+      "lat":"53.68",
+      "long":"-1.49" 
+    },
+   "TF":{
+      "capital":"Wells",
+      "lat":"51.209",
+      "long":"-2.647" 
+    },
+   "TD":{
+      "capital":"Wolverhampton",
+      "lat":"52.59137",
+      "long":"-2.110748" 
+    },
+   "TC":{
+      "capital":"Winchester",
+      "lat":"51.063202",
+      "long":"-1.308" 
+    },
+   "TB":{
+      "capital":"Worcester",
+      "lat":"52.192001",
+      "long":"-2.22" 
+    },
+   "TA":{
+      "capital":"York",
+      "lat":"53.958332",
+      "long":"-1.080278"
    }
 }
+  
