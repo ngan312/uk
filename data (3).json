@@ -1,0 +1,147 @@
+{
+   "AL":{
+      "capital":"Aberdeen",
+      "lat":"57.14965",
+      "long":"-2.09908"
+   },
+   "AK":{
+      "capital":"Ayr",
+      "lat":"55.458565",
+      "long":"-4.629179"
+   },
+   "AZ":{
+      "capital":"Basildon",
+      "lat":"51.572376",
+      "long":"0.470009"
+   },
+   "AR":{
+      "capital":"Bath",
+      "lat":"51.380001",
+      "long":"-2.36"
+   },
+   "CA":{
+      "capital":"Bedford",
+      "lat":"52.136436",
+      "long":"-0.460739"
+   },
+   "CO":{
+      "capital":"Belfast",
+      "lat":"54.607868",
+      "long":"-5.926437"
+   },
+   "CT":{
+      "capital":"Birmingham",
+      "lat":"52.489471",
+      "long":"-1.898575"
+   },
+   "DE":{
+      "capital":"Bradford",
+      "lat":"53.799999",
+      "long":"-1.75"
+   },
+   "FL":{
+      "capital":"Brighton & Hove",
+      "lat":"50.827778",
+      "long":"-0.152778"
+   },
+   "GA":{
+      "capital":"Bristol",
+      "lat":"51.454514",
+      "long":"-2.58791"
+   },
+   "HI":{
+      "capital":"Cambridge",
+      "lat":"52.205276",
+      "long":"0.119167"
+   },
+   "ID":{
+      "capital":"Canterbury",
+      "lat":"51.279999",
+      "long":"1.08"
+   },
+   "IL":{
+      "capital":"Cardiff",
+      "lat":"51.481583",
+      "long":"-3.17909"
+   },
+   "IN":{
+      "capital":"Carlisle",
+      "lat":"54.890999",
+      "long":"-2.944"
+   },
+   "IA":{
+      "capital":"Chelmsford",
+      "lat":"51.736099",
+      "long":"0.4798"
+   },
+   "KS":{
+      "capital":"Chester",
+      "lat":"53.189999",
+      "long":"-2.89"
+   },
+   "KY":{
+      "capital":"Chesterfield",
+      "lat":"53.235046",
+      "long":"-1.421629"
+   },
+   "LA":{
+      "capital":"Chichester",
+      "lat":"50.836498",
+      "long":"-0.7792"
+   },
+   "ME":{
+      "capital":"Chippenham",
+      "lat":"51.458057",
+      "long":"-2.116074"
+   },
+   "MD":{
+      "capital":"Coventry",
+      "lat":"52.408054",
+      "long":"-1.510556"
+   },
+   "MA":{
+      "capital":"Derby",
+      "lat":"52.916668",
+      "long":"-1.466667"
+   },
+   "MI":{
+      "capital":"Derry",
+      "lat":"54.9958",
+      "long":"-7.3074"
+   },
+   "MN":{
+      "capital":"Dundee",
+      "lat":"56.462002",
+      "long":"-2.9707"
+   },
+   "MS":{
+      "capital":"Durham",
+      "lat":"54.7761",
+      "long":"-1.5733"
+   },
+   "MO": {
+    "capital": "Eastbourne",
+    "lat": "50.768036",
+    "long": "0.290472"
+  },
+  "MT": {
+    "capital": "Edinburgh",
+    "lat": "55.953251",
+    "long": "-3.188267"
+  },
+  "NE": {
+    "capital": "Elgin",
+    "lat": "57.653484",
+    "long": "-3.335724"
+  },
+  "NV": {
+    "capital": "Ely",
+    "lat": "52.398056",
+    "long": "0.262222"
+  },
+  "NH": {
+    "capital": "Exeter",
+    "lat": "50.716667",
+    "long": "-3.533333"
+  }
+}
