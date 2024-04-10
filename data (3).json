@@ -139,9 +139,123 @@
     "lat": "52.398056",
     "long": "0.262222"
   },
-  "NH": {
+ "NH": {
     "capital": "Exeter",
     "lat": "50.716667",
     "long": "-3.533333"
-  }
+  },
+  "NJ": {
+    "capital": "Folkestone",
+    "lat": "51.081398",
+    "long": "1.169456"
+  },
+  "NM": {
+    "capital": "Glasgow",
+    "lat": "55.860916",
+    "long": "-4.251433"
+  },
+  "NY": {
+    "capital": "Gloucester",
+    "lat": "51.864445",
+    "long": "-2.244444"
+  },
+  "NC": {
+    "capital": "Gravesend",
+    "lat": "51.441883",
+    "long": "0.370759"
+  },
+  "ND": {
+    "capital": "Harlow",
+    "lat": "51.772938",
+    "long": "0.10231"
+  },
+  "OH": {
+    "capital": "Hastings",
+    "lat": "50.854259",
+    "long": "0.573453"
+  },
+  "OK": {
+    "capital": "Hereford",
+    "lat": "52.056499",
+    "long": "-2.716"
+  },
+  "OR": {
+    "capital": "Hull",
+    "lat": "53.76775",
+    "long": "-0.335827"
+  },
+  "PA": {
+    "capital": "Inverness",
+    "lat": "57.477772",
+    "long": "-4.224721"
+  },
+  "RI": {
+    "capital": "Lancaster",
+    "lat": "54.047001",
+    "long": "-2.801"
+  },
+  "SC": {
+    "capital": "Leeds",
+    "lat": "53.801277",
+    "long": "-1.548567"
+  },
+  "SD": {
+    "capital": "Leicester",
+    "lat": "52.633331",
+    "long": "-1.133333"
+  },
+  "TN": {
+    "capital": "Lichfield",
+    "lat": "52.683498",
+    "long": "-1.82653"
+  },
+  "TX": {
+    "capital": "Lincoln",
+    "lat": "53.234444",
+    "long": "-0.538611"
+  },
+  "UT": {
+    "capital": "Lisburn",
+    "lat": "54.50972",
+    "long": "-6.0374"
+  },
+  "VT": {
+    "capital": "Liverpool",
+    "lat": "53.400002",
+    "long": "-2.983333"
+  },
+  "VA": {
+    "capital": "London",
+    "lat": "51.509865",
+    "long": "51.509865"
+  },
+  "WA": {
+    "capital": "Londonderry",
+    "lat": "55.006763",
+    "long": "-7.318268"
+  },
+  "WV": {
+    "capital": "Manchester",
+    "lat": "53.483959",
+    "long": "-2.244644"
+  },
+  "WI": {
+    "capital": "Newcastle Upon Tyne",
+    "lat": "54.966667",
+    "long": "-1.6"
+  },
+  "WY": {
+    "capital": "Newry",
+    "lat": "54.175999",
+    "long": "-6.349"
+  },
+    "WI": {
+    "capital": "Northampton",
+    "lat": "52.240479",
+    "long": "-0.902656"
+  },
+  "WY": {
+    "capital": "Nottingham",
+    "lat": "52.950001",
+    "long": "-1.15"
 }
